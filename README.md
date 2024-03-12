@@ -1,2 +1,2 @@
 # PPJ 
-programming languages translation
+laboratorijske vježbe iz predmeta "Prevođenje programskih jezika"
